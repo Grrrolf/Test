@@ -98,7 +98,7 @@ State machine
 
 The following diagram shows the state machine:
 
-.. image:: command_interface_figuur_1.png
+.. image:: command_interface_figuur_1.svg
    :alt: Diagram showing tate machine
    :align: left
 
