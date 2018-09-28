@@ -101,7 +101,6 @@ The following diagram shows the state machine:
 .. image:: command_interface_figuur_1.png
    :alt: Diagram showing tate machine
    :align: left
-
 Figure 1: Basic Protocol State Machine
 
 Note: Setting the ‘ABORT’ bit, does not directly influence the state machine. It is handled by the Ultimate-II software, which will in turn reset the state machine to idle eventually.
