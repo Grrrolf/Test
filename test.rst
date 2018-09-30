@@ -17,4 +17,4 @@
     the body of the sidebar, and are
     interpreted as body elements.
 
-link to `command interface <command_interface.rts>`_
+link to `command interface <command_interface.rst>`_
