@@ -18,3 +18,32 @@
     interpreted as body elements.
 
 link to `command interface <command_interface.rst>`_
+
+
+| dit is een test
+
+.. tabularcolumns:: |l|c|p{5cm}|
+
+
++--------------+---+-----------+
+|  simple text | 2 | 3         |
++--------------+---+-----------+
+|  simple text | 2 | 3         |
++--------------+---+-----------+
+|  simple text | 2 | 3         |
++--------------+---+-----------+
+|  simple text | 2 | 3         |
++--------------+---+-----------+
+|  simple text | 2 | 3         |
++--------------+---+-----------+
+|  simple text | 2 | 3         |
++--------------+---+-----------+
+
+.. hlist::
+   :columns: 3
+
+   * A list of
+   * short items
+   * that should be
+   * displayed
+   * horizontally
