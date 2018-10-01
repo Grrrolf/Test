@@ -56,4 +56,15 @@ link to `command interface <command_interface.rst>`_
 |          |          | | ically. Manually works?         |
 +----------+----------+-----------------------------------+
 
+.. table:: Truth table for "not"
+   :widths: auto
+
+   =====  =====
+     A    not A
+   =====  =====
+   False  True
+   True   False
+   =====  =====
+
+
 
