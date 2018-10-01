@@ -10,6 +10,26 @@
       The directory which, including its subdirectories, contains all
       source files for one Sphinx project.
 
++----------+----------+-----------------------------------+
+| Header 1 | Header 2 | Header 3                          |
++==========+==========+===================================+
+| | Item 1 |          | | This is another test with a long|
+| | Item 2 |          | | line that does not wrap automat-|
+|          |          | | ically. Manually works?         |
++----------+----------+-----------------------------------+
+
+.. table:: **Test table for autowrap**
+   :widths: auto
+   :align: left
+
+   =====  =====
+   row1   row 2
+   =====  =====
+   False  Truth is somethign intersting don't you think so? But will it also wrap or not! I hope it does, but don't think it will. But it seems that it actuall does wrap? What's going on here!
+   True   False
+   =====  =====
+
+
 .. sidebar:: Sidebar Title
     :subtitle: Optional Sidebar Subtitle
 
@@ -48,23 +68,7 @@ link to `command interface <command_interface.rst>`_
    * displayed
    * horizontally
 
-+----------+----------+-----------------------------------+
-| Header 1 | Header 2 | Header 3                          |
-+==========+==========+===================================+
-| | Item 1 |          | | This is another test with a long|
-| | Item 2 |          | | line that does not wrap automat-|
-|          |          | | ically. Manually works?         |
-+----------+----------+-----------------------------------+
 
-.. table:: Truth table for "not"
-   :widths: auto
-
-   =====  =====
-     A    not A
-   =====  =====
-   False  True
-   True   False
-   =====  =====
 
 
 
