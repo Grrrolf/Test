@@ -4,10 +4,14 @@
 ============ ===========
 key          description
 ============ ===========
-|left arrow| |smile|
+|left arrow| smile
 ============ ===========
 
-
+============ ===========
+key          description
+============ ===========
+|left arrow| |smile|
+============ ===========
 
 
 .. warning::
@@ -37,7 +41,7 @@ key          description
    ============   =====
    row1           row 2
    ============   =====
-   False          Truth is somethign intersting don't you think so? But will it also wrap or not! I hope it does, but don't think it will. But it seems that it actuall does wrap? What's going on here!
+   |left arrow|   Truth is somethign intersting don't you think so? But will it also wrap or not! I hope it does, but don't think it will. But it seems that it actuall does wrap? What's going on here!
    |left arrow|   False
    ============   =====
 
@@ -61,6 +65,13 @@ key          description
 +--------------+---+-----------+
 |  simple text | 2 | 3         |
 +--------------+---+-----------+
+
+
+============ ===========
+key          description
+============ ===========
+|left arrow| |smile|
+============ ===========
 
 .. |left arrow| unicode:: U+2B05 U+FE0E .. LEFTWARDS BLACK ARROW
 .. |arrow up|   unicode:: U+2B06 U+FE0E  .. UPWARDS BLACK ARROW
