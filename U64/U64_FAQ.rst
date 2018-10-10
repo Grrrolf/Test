@@ -228,7 +228,7 @@ me who still have it on their boards, please? :)
 **Gideon:**
 DigiFix resistors on the V1.1 board (are circled in the picture below):
 
-.. image:: files/digifix_after_fix.jpg
+.. image:: files/digifix_capacitors_small.jpg
    :alt: Location of DigiFix resistors
    :align: center
 
