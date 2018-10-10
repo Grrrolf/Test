@@ -1,3 +1,7 @@
+=============================
+W O R K  I N  P R O G R E S S
+=============================
+
 =================
 Ultimate 64 (U64)
 =================
@@ -159,6 +163,17 @@ P1     Sid-1 Voltage    Closed/on  9V (8580)
 P2     Sid-2 Voltage    Open/off   12V (6581)
 ====== =============    =========  ==========
 
+.. table:: **Voltage settings 2**
+   :widths: auto
+   :align: left
+
+=========  ==========
+Jumper     Voltage
+=========  ==========
+Closed/on  9V (8580)
+Open/off   12V (6581)
+=========  ==========
+
 .. table:: **Filter Select:**
    :widths: auto
    :align: left
@@ -212,15 +227,18 @@ me who still have it on their boards, please? :)
 
 **Gideon:**
 DigiFix resistors on the V1.1 board (are circled in the picture below):
-![Location of DigiFix resisters](pics/digifix_capacitors_small.jpg)
 
-After removal of the resisters the board looks like this:
-
-.. image:: pics/digifix_after_fix.jpg
-   :alt: Diagram showing tate machine
+.. image:: files/digifix_after_fix.jpg
+   :alt: Location of DigiFix resistors
    :align: center
 
-_DigiFix after fix_
+After removal of the resistors the board looks like this:
+
+.. image:: files/digifix_after_fix.jpg
+   :alt: DigiFix after fix
+   :align: center
+
+
 
 
 Playing 2SID and 3SID tunes
