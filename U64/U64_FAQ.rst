@@ -148,7 +148,14 @@ two real sid chips. Other SID devices like SIDFX, Swinsid and FPGASID can also
 be installed. They act like real SID chips, so there's no reason these won't
 work also.
 
-To install a SID make sure you put them in with the little
+The following pictures is an example on how to install the SID chips and how to
+set / configure the jumpers. Make sure the little notch in the SID chips are lined
+up with the notch in the SID sockets as shown in the picture.
+
+.. image:: files/Installing_SIDs.png
+   :alt: Installing SID chips
+   :align: center
+
 
 > All three jumpers on for 8580, all jumpers off for 6581 -- Gideon
 
