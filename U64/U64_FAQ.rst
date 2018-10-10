@@ -156,12 +156,12 @@ To install a SID make sure you put them in with the little
    :widths: auto
    :align: left
 
-====== =============    =========  ==========
-Jumper Sid Socket       Jumper     Voltage
-====== =============    =========  ==========
-P1     Sid-1 Voltage    Closed/on  9V (8580)
-P2     Sid-2 Voltage    Open/off   12V (6581)
-====== =============    =========  ==========
+====== =============
+Jumper Sid Socket   
+====== =============
+P1     Sid-1 Voltage
+P2     Sid-2 Voltage
+====== =============
 
 .. table:: **Voltage settings 2**
    :widths: auto
