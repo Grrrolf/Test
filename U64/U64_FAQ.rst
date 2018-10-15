@@ -9,8 +9,8 @@ Ultimate 64 (U64)
 .. contents:: **CONTENTS**
    :depth: 3
 
-Installing U64 into a C64 or C64c encloser
-------------------------------------------
+Installing U64 into a C64 or C64c enclosure
+-------------------------------------------
 The Ultimate 64 comes without an encloser. this means that you will need to
 find one yourself. There are various sources where you can find a C64 or C64c
 encloser. Most commenly used sources are probably ebay and other classifieds
