@@ -157,42 +157,6 @@ up with the notch in the SID sockets as shown in the picture.
    :align: center
 
 
-> All three jumpers on for 8580, all jumpers off for 6581 -- Gideon
-
-.. table:: **Voltage settings**
-   :widths: auto
-   :align: left
-
-====== =============
-Jumper Sid Socket   
-====== =============
-P1     Sid-1 Voltage
-P2     Sid-2 Voltage
-====== =============
-
-.. table:: **Voltage settings 2**
-   :widths: auto
-   :align: left
-
-=========  ==========
-Jumper     Voltage
-=========  ==========
-Closed/on  9V (8580)
-Open/off   12V (6581)
-=========  ==========
-
-.. table:: **Filter Select:**
-   :widths: auto
-   :align: left
-
-=========   =========
-jumper      SID model
-=========   =========
-Closed/On   8580
-Open/Off    6581
-=========   =========
-
-
 What are the SidTap pin headers for?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The SIDtap headers/pins are pin headers that can be used to connect the audio
