@@ -9,9 +9,9 @@ Ultimate 64 (U64)
 .. contents:: **CONTENTS**
    :depth: 3
 
-Installing U64 into a C64 or C64c enclosure
--------------------------------------------
-The Ultimate 64 comes without an encloser. this means that you will need to
+Installing the U64 in a C64, C64c or plexi glass case
+-----------------------------------------------------
+The Ultimate 64 comes without an enclosure. this means that you will need to
 find one yourself. There are various sources where you can find a C64 or C64c
 encloser. Most commenly used sources are probably ebay and other classifieds
 websites. If you have an old C64 which is out or order, you can use that case
@@ -23,6 +23,10 @@ cases from an old mould that was found in some warehouse a few years ago.
 
 The easiest is to install the U64 into a C64 bread bin enlosure. For the most
 C64c enclosures you will need to use some creativity ;-)
+
+A German company has designed a plexi glass enclosure specifically for the 
+Ultimate 64. You can find this `product here
+<https://www.plexilaser.de/Acrylgehaeuse-fuer-das-Ultimate-64-FPGA-Board-Teilesatz>`_.
 
 C64 bread box
 ^^^^^^^^^^^^^
@@ -68,6 +72,14 @@ on `Thingverse <https://www.thingiverse.com/thing:3051450>`_. The posting
 announcing this design on the Facebook group can be found `here
 <https://www.facebook.com/groups/1541ultimate/permalink/10155924605747753/>`_.
 
+Plexi glass enclosure
+^^^^^^^^^^^^^^^^^^^^^
+There is a German company that makes beautiful plexi glass C64 enclosures. Recently
+they have also released a product specifically designed for the Ultimate 64. 
+
+You can find information about this enclosure here 
+`https://www.plexilaser.de/Acrylgehaeuse-fuer-das-Ultimate-64-FPGA-Board-Teilesatz 
+<https://www.plexilaser.de/Acrylgehaeuse-fuer-das-Ultimate-64-FPGA-Board-Teilesatz>`_.
 
 Video output
 ------------
