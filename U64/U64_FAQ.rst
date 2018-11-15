@@ -260,8 +260,8 @@ How to configure the U64 for 3SID tunes
 4. Make sure that "SID Socket 1 Address" is set to $D400
 5. Now set the "SID Socket 2 Address" to the second SID address.
 6. Now set the "UltiSID 1 Address" to the third SID address.
-6. Press RUN/STOP to get back to the Ultimate menu.
-7. Now run the 3SID tune using the built-in Ultimate SID Player.
+7. Press RUN/STOP to get back to the Ultimate menu.
+8. Now run the 3SID tune using the built-in Ultimate SID Player.
 
 
 How to find out which address the second and third SID uses
