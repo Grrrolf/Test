@@ -13,24 +13,25 @@ Installing the U64 in a C64, C64c or plexi glass case
 -----------------------------------------------------
 The Ultimate 64 comes without an enclosure. this means that you will need to
 find one yourself. There are various sources where you can find a C64 or C64c
-encloser. Most commenly used sources are probably ebay and other classifieds
+enclosure. Most commenly used sources are probably ebay and other classifieds
 websites. If you have an old C64 which is out or order, you can use that case
 also.
 
-Another source is `Pixelwizard Retros shop
+The easiest is to install the U64 into a C64 bread bin enclosure. For the most
+C64c enclosures you will need to use some creativity, but most creative people
+have shared their creations, mainly 3d-print files for the keyboard mounts.
+
+Another source is the `Pixelwizard Retros shop
 <https://shop.pixelwizard.eu/commodore-c64/>`_ These are newly moulded C64c
-cases from an old mould that was found in some warehouse a few years ago.
+cases from an old mould that was found in some warehouse a some years ago.
 
-The easiest is to install the U64 into a C64 bread bin enlosure. For the most
-C64c enclosures you will need to use some creativity ;-)
-
-A German company has designed a plexi glass enclosure specifically for the 
-Ultimate 64. You can find this `product here
+A German company has designed a beautiful plexi glass enclosure specifically for
+the Ultimate 64. You can find this `product here
 <https://www.plexilaser.de/Acrylgehaeuse-fuer-das-Ultimate-64-FPGA-Board-Teilesatz>`_.
 
 C64 bread box
 ^^^^^^^^^^^^^
-
+You can
 "[...] If the connector plate is not included or missing, you can find 3d
 print-files for 3d printing the connector plate here:
 https://www.thingiverse.com/thing:959633. There are various 3d printing
