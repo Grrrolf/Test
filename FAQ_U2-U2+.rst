@@ -29,8 +29,8 @@ shop <https://ultimate64.com/Main_products>`_. You can also buy
 
 Where can I find the latest firmware?
 -------------------------------------
-You can find an overview of almost all firmware release on this page: [firmware
-overview](firmware_ultimate_carts.html) (including the latest).
+You can find an overview of almost all firmware release on this page: `firmware
+overview <https://ammo.home.xs4all.nl/Ultimate_Carts/firmware_ultimate_carts.html>`_ (including the latest).
 
 
 I am still running firmware 2.6k or lower on my U2. How can I upgrade?
