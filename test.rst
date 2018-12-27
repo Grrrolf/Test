@@ -90,7 +90,7 @@ key          description
   
 And another screen:
 ::
-            *** Ultimate-II Plus 3.3a (112) *** Remote ***       
+         *** Ultimate-II Plus 3.3a (112) *** Remote ***       
   ────────────────────────────────────────────────────────────
   Usb1    Lexar    microSD RDR                       Ready      
   Usb0    Lexar    USB Flash Drive                   Ready    
