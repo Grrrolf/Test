@@ -73,6 +73,47 @@ key          description
 |left arrow| |smile|
 ============ ===========
 
+::
+
+     *** Ultimate-II Plus 3.3a (112) ***   
+  ┌───────────────────────────────────────┐
+  │Use DHCP                       Disabled│
+  │Static IP                   64.64.64.64│
+  │Static Netmask            255.255.255.0│
+  │Static Gateway                         │
+  │Host Name                           U2P│
+  │                                       │
+  │                                       │
+  │                                       │
+  └───────────────────────────────────────┘
+   /                             –F3=Help– 
+   
+            *** Ultimate-II Plus 3.3a (112) *** Remote ***       
+  ────────────────────────────────────────────────────────────
+  Usb1    Lexar    microSD RDR                       Ready    
+  Usb0    Lexar    USB Flash Drive                   Ready    
+  Net0    IP: 192.168.2.64                           Link Up  
+  
+  
+  
+  
+  
+                                                              
+                                                              
+  
+  
+   
+  
+  
+                                                            
+  
+  
+  
+  
+                                                            
+  /                                                  ─F3=Help─
+
+
 .. |left arrow| unicode:: U+2B05 U+FE0E .. LEFTWARDS BLACK ARROW
 .. |arrow up|   unicode:: U+2B06 U+FE0E  .. UPWARDS BLACK ARROW
 .. |smile|      unicode:: U+1F603       .. grinning face with open mouth
