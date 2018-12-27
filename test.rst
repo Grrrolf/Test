@@ -87,10 +87,12 @@ key          description
   │                                       │
   └───────────────────────────────────────┘
    /                             –F3=Help– 
-   
+  
+And another screen:
+::
             *** Ultimate-II Plus 3.3a (112) *** Remote ***       
   ────────────────────────────────────────────────────────────
-  Usb1    Lexar    microSD RDR                       Ready    
+  Usb1    Lexar    microSD RDR                       Ready      
   Usb0    Lexar    USB Flash Drive                   Ready    
   Net0    IP: 192.168.2.64                           Link Up  
   
@@ -99,7 +101,7 @@ key          description
   
   
                                                               
-                                                              
+  
   
   
    
@@ -114,6 +116,7 @@ key          description
   /                                                  ─F3=Help─
 
 
+.. role:: red
 .. |left arrow| unicode:: U+2B05 U+FE0E .. LEFTWARDS BLACK ARROW
 .. |arrow up|   unicode:: U+2B06 U+FE0E  .. UPWARDS BLACK ARROW
 .. |smile|      unicode:: U+1F603       .. grinning face with open mouth
