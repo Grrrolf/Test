@@ -5,7 +5,7 @@ The Ultimate2+ and the Ultiamte64 have a built-in ethernet port which you can us
 
 The Ultimate2 does not have an ethernet port, but it does have a USB port. You can connect the U2 to your local network or modern computer using an USB2LAN adapter. Any USB2LAN adapter that uses an AX88772/-A/-B chip should work.
 
-The Ultimate64 also has a radio chip (ESP32) is not yet used for networking.
+The Ultimate64 also has a radio chip (ESP32) which is not yet used for networking.
 
 The Ultimate2+ is included in the Ultimate64, any reference to the Ultimate2+ also concerns the Ultimate64.
 
