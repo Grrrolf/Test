@@ -17,11 +17,31 @@ To connect the Ultimate cartridge to the network you will need an ethernet cable
 
 You can check and see if the Ultimate cart has a working network connection by checking the Net0 status in the Ultimate menu. You will see something like:
 
-Net0    IP:  192.168.2.64       Link Up
+:: 
+
+         *** Ultimate-II Plus 3.2a (110) 
+  ──────────────────────────────────────────────
+  Usb0    Lexar    USB Flash Drive     Ready
+  Usb1    Lexar    USB Flash Drive     Ready
+  Net0    IP: 192.168.2.64             Link Up
+  
+  
+                                       ─F3=Help─
+  /
 
 For the U2+, when the link is down, it will say something like: 
 
-Net0    MAC  13:15:41:26:64:4f  Link Down
+:: 
+
+         *** Ultimate-II Plus 3.2a (110)
+  ──────────────────────────────────────────────
+  Usb0    Lexar    USB Flash Drive     Ready
+  Usb1    Lexar    USB Flash Drive     Ready
+  Net0    MAC 01:21:3a:4f:64:6f        Link Down
+  
+  
+                                       ─F3=Help─
+  /
 
 This means that when the link is down the U2+ will show its MAC address. If you have a modem/router that needs to mac address to have it serve an IP-address, then use this address. 
 
@@ -68,7 +88,7 @@ Remote control
 --------------
 It is possible to completely control the Ultimate cart via a network connection. You will need a telnet application to do so. I will not go into details on how to configure your telnet application. Most standard telnet applications will work out-of-the-box with recent firmware releases. 
 
-Telnet is considered harmful or in other words, not safe. That's why most modern operating systems do not include a telnet binary anymore. You will need to install a telnet client yourself. You can use your favourite package manager. On macOS I use homebrew (https://brew.sh) and simply type 'brew install telnet'. The telnet client is started from the command line. 
+Modern operating systems usually do not come with a standard telnet client. This means that you will need to install a telnet client yourself. You can use your favourite package manager. On macOS I use homebrew (https://brew.sh) and simply type 'brew install telnet'. The telnet client is started from the command line. For Microsoft Windows Operating System you can use `PuTTY <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_
 
 Please make sure that your telnet / terminal client supports vt100. The Ultimate remote screen operates at 60 columns by 24 rows. 
 
