@@ -117,7 +117,7 @@ This means that you will need to install a telnet client yourself. You can use
 your favourite package manager. On macOS you can use homebrew (https://brew.sh)
 and simply type 'brew install telnet'. The telnet client is started from the
 command line. For Microsoft Windows Operating System you can use `PuTTY
-<https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_
+<https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_ (`https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_)
 
 Please make sure that your telnet / terminal client supports vt100. The
 Ultimate remote screen operates at 60 columns by 24 rows.
@@ -149,3 +149,26 @@ Once you're logged in, the screen will look like this:
   
                                                               
   /                                                  ─F3=Help─
+
+Once you are connected to the 'remote menu' you can fully operate the the U2
+and U2+ like you're used to do using the Ultimate menu on your C64.
+
+
+File transfer (using FTP)
+-------------------------
+
+To transfer files from and to the Ultimate cartridge you can use the file
+transfer protocol, also know as FTP.
+
+The easiest way to use FTP is use one of the many FTP-clients.
+
+Windows:
+Filezilla
+winscp
+...
+
+Mac
+Filezilla
+duckuck
+...
+
