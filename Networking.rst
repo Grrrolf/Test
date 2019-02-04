@@ -139,7 +139,8 @@ e.g.
 - telnet 192.168.2.64
 - telnet 64.64.64.64
 
-If you use windows, make sure to type the ip address in the 'host' input field
+If you use Microsoft Windows Operating System, open your telnet client and make
+sure to type the ip address in the 'host' input field of your telnet client
 before making a connection.
 
 Once you're logged in, the screen will look like this:
@@ -169,13 +170,13 @@ transfer protocol, also know as FTP.
 
 The easiest way to use FTP is use one of the many FTP-clients.
 
-Windows:
-Filezilla
-winscp
+**Windows:**
+* Filezilla
+* winscp
 ...
 
-Mac
-Filezilla
-duckuck
+**Mac:**
+* Filezilla
+* duckuck
 ...
 
