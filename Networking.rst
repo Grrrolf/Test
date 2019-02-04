@@ -78,7 +78,7 @@ To configure such a direct connection, you will need to configure your Ultimate 
 
 ::
 
-     *** Ultimate-II Plus 3.3a (112) ***   
+     *** Ultimate-II Plus 3.2a (110) ***   
   ┌───────────────────────────────────────┐
   │Use DHCP                       Disabled│
   │Static IP                   64.64.64.64│
@@ -146,7 +146,7 @@ Once you're logged in, the screen will look like this:
 
 ::
 
-         *** Ultimate-II Plus 3.3a (112) *** Remote ***       
+         *** Ultimate-II Plus 3.2a (110) *** Remote ***       
   ────────────────────────────────────────────────────────────
   Usb1    Lexar    microSD RDR                       Ready    
   Usb0    Lexar    USB Flash Drive                   Ready    
