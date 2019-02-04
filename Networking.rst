@@ -4,7 +4,7 @@ Networking
 .. contents:: **CONTENTS**
    :depth: 2
 
-Networking for the Ultimate devies
+Networking for the Ultimate devices
 ----------------------------------
 
 The Ultimate2+ and the Ultiamte64 have a built-in ethernet port which you can
