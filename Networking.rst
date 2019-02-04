@@ -1,6 +1,12 @@
 Networking
 ==========
 
+.. contents:: **CONTENTS**
+   :depth: 2
+
+Networking for the Ultimate devies
+----------------------------------
+
 The Ultimate2+ and the Ultiamte64 have a built-in ethernet port which you can
 use to connect the U2+ to your network or directly to your modern computer.
 
@@ -16,15 +22,16 @@ in this document also concerns the Ultimate64.
 
 
 
-Connecting the Ultimate to the network
---------------------------------------
+Connect the Ultimate to your network
+````````````````````````````````````
 
-To connect the Ultimate cartridge to the network you will need an ethernet
+To connect the Ultimate cartridge to your network you will need an ethernet
 cable. Connect the ethernet cable to your local network. Most likely you can
 connect it to the switch of your modem/router. The modem/router will likely use
 DHCP to serve your Ultimate cartridge an IP-address.
 
-You can check and see if the Ultimate cart has a working network connection by checking the Net0 status in the Ultimate menu. You will see something like:
+You can check and see if the Ultimate cart has a working network connection by 
+checking the Net0 status in the Ultimate menu. You will see something like:
 
 :: 
 
@@ -60,8 +67,8 @@ On the U2 I believe that when there is no USB2LAN adapter connect, there will
 be no message shown at all. It will only show this information only when the
 USB2LAN adapter is connected.
 
-Direct connection
------------------
+Using a direct connection
+`````````````````````````
 If you don't have the means to connect your Ultimate cartridge to a
 modem/router, you can connect the Ultimate cartridge directly to your modern
 computer. This means that you can only reach the Ultimate cart from this
@@ -96,7 +103,7 @@ the Ultimate cartridge on the network.
 
 
 Using the network connection
-============================
+----------------------------
 At the time of writing there are 4 applications:
 
 1) remote control (using telnet)
@@ -106,7 +113,7 @@ At the time of writing there are 4 applications:
 
 
 Remote control 
---------------
+``````````````
 It is possible to completely control the Ultimate cart via a network
 connection. You will need a telnet application to do so. I will not go into
 details on how to configure your telnet application. Most standard telnet
@@ -155,7 +162,7 @@ and U2+ like you're used to do using the Ultimate menu on your C64.
 
 
 File transfer (using FTP)
--------------------------
+`````````````````````````
 
 To transfer files from and to the Ultimate cartridge you can use the file
 transfer protocol, also know as FTP.
