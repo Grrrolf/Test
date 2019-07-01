@@ -31,13 +31,15 @@ connect it to the switch of your modem/router. The modem/router will likely use
 DHCP to serve your Ultimate cartridge an IP-address.
 
 You can check and see if the Ultimate cart has a working network connection by 
-checking the Net0 status in the Ultimate menu. You will see something like:
+checking the Net0 status in the Ultimate menu. If there is a working network 
+connection it will say 'Link Up' at 'Net0':
 
 .. figure:: media/u2p_networking_main_no_connection.png
    :scale: 200 %
    :alt: U2+ main screen 
 
-For the U2+, when the link is down, it will show: 
+
+For the U2+, when the link is down, look like this: 
 
 .. figure:: media/u2p_networking_main.png
    :scale: 200 %
@@ -59,19 +61,21 @@ modem/router, you can connect the Ultimate cartridge directly to your modern
 computer. This means that you can only reach the Ultimate cart from this
 computer and not from other devices on your network (better security).
 
-To configure such a direct connection, you will need to configure your Ultimate cartridge to something like this: 
+To configure such a direct connection, you can configure your Ultimate 
+cartridge to something like this: 
 
 .. figure:: media/u2p_networking_main.png
    :scale: 200 %
    :alt: U2+ network settings - direct connection
 
-Make sure to disable DHCP.
+Make sure to disable DHCP. Otherwise your U2+ will query for an ip-address from your 
+router/modem.
 
-You will also need to configure the ethernet network connection for your modern
-computer. To connect to the Ultimate cart, you will need to use a different
-IP-address, but you will need to use the same net mask. E.g. IP-address:
-64.64.64.65 and Netmask: 255.255.255.0. Note that in this example you should
-only change the last number in the IP-address.
+For this to work, you will also need to configure the ethernet network connection 
+for your modern computer. To connect to the Ultimate cart, you will need to use a different
+IP-address than the one you have chosen for your U2+, but you will need to use the same net mask. 
+E.g. IP-address: 64.64.64.65 and Netmask: 255.255.255.0. 
+Note that in this example you should only change the last number in the IP-address.
 
 Make sure to make a note of the IP-address. You will need this address to reach
 the Ultimate cartridge on the network.
