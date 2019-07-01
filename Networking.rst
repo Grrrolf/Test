@@ -33,31 +33,16 @@ DHCP to serve your Ultimate cartridge an IP-address.
 You can check and see if the Ultimate cart has a working network connection by 
 checking the Net0 status in the Ultimate menu. You will see something like:
 
-:: 
-
-         *** Ultimate-II Plus 3.2a (110) 
-  ──────────────────────────────────────────────
-  Usb0    Lexar    USB Flash Drive     Ready
-  Usb1    Lexar    USB Flash Drive     Ready
-  Net0    IP: 192.168.2.64             Link Up
-  
-  
-                                       ─F3=Help─
-  /
+.. figure:: media/u2p_networking_main_no_connection.png
+   :scale: 200 %
+   :alt: U2+ main screen 
 
 For the U2+, when the link is down, it will show: 
 
-:: 
+.. figure:: media/u2p_networking_main.png
+   :scale: 200 %
+   :alt: U2+ main screen - no network connection
 
-         *** Ultimate-II Plus 3.2a (110)
-  ──────────────────────────────────────────────
-  Usb0    Lexar    USB Flash Drive     Ready
-  Usb1    Lexar    USB Flash Drive     Ready
-  Net0    MAC 01:21:3a:4f:64:6f        Link Down
-  
-  
-                                       ─F3=Help─
-  /
 
 This means that when the link is down the U2+ will show its MAC address. If the
 security policies of your modem/router needs the MAC address in order to serve
@@ -76,21 +61,11 @@ computer and not from other devices on your network (better security).
 
 To configure such a direct connection, you will need to configure your Ultimate cartridge to something like this: 
 
-::
+.. figure:: media/u2p_networking_main.png
+   :scale: 200 %
+   :alt: U2+ network settings - direct connection
 
-     *** Ultimate-II Plus 3.2a (110) ***   
-  ┌───────────────────────────────────────┐
-  │Use DHCP                       Disabled│
-  │Static IP                   64.64.64.64│
-  │Static Netmask            255.255.255.0│
-  │Static Gateway                         │
-  │Host Name                           U2P│
-  │                                       │
-  │                                       │
-  │                                       │
-  └───────────────────────────────────────┘
-   /                             –F3=Help– 
-  
+Make sure to disable DHCP.
 
 You will also need to configure the ethernet network connection for your modern
 computer. To connect to the Ultimate cart, you will need to use a different
@@ -145,18 +120,11 @@ before making a connection.
 
 Once you're logged in, the screen will look like this:
 
-::
+.. figure:: media/u2p_networking_main_remote_interface.png
+   :scale: 200 %
+   :alt: U2+ main - remote interface
 
-         *** Ultimate-II Plus 3.2a (110) *** Remote ***       
-  ────────────────────────────────────────────────────────────
-  Usb1    Lexar    microSD RDR                       Ready    
-  Usb0    Lexar    USB Flash Drive                   Ready    
-  Net0    IP: 192.168.2.64                           Link Up  
-  
-  
-  
-                                                              
-  /                                                  ─F3=Help─
+
 
 Once you are connected to the 'remote menu' you can fully operate the the U2
 and U2+ like you're used to do using the Ultimate menu on your C64.
