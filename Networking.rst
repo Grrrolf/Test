@@ -39,7 +39,7 @@ connection it will say 'Link Up' at 'Net0':
    :alt: U2+ main screen 
 
 
-For the U2+, when the link is down, look like this: 
+For the U2+, when the link is down, it will look like this: 
 
 .. figure:: media/u2p_networking_main_no_connection.png
    :scale: 200 %
