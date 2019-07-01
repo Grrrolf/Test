@@ -34,14 +34,14 @@ You can check and see if the Ultimate cart has a working network connection by
 checking the Net0 status in the Ultimate menu. If there is a working network 
 connection it will say 'Link Up' at 'Net0':
 
-.. figure:: media/u2p_networking_main_no_connection.png
+.. figure:: media/u2p_networking_main.png
    :scale: 200 %
    :alt: U2+ main screen 
 
 
 For the U2+, when the link is down, look like this: 
 
-.. figure:: media/u2p_networking_main.png
+.. figure:: media/u2p_networking_main_no_connection.png
    :scale: 200 %
    :alt: U2+ main screen - no network connection
 
